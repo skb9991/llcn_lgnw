@@ -1,6 +1,6 @@
 % This script is a single-subject MVPA decoding analysis for nouns vs verbs
 % in the LOC dataset. It is based on the decoding tutorial from the
-% decoding toolbox.
+% decoding toolbox. HI
 
 % Add path of where this toolbox is located (if not already in path)
 addpath('/Users/bterhunecotter/Documents/MATLAB/spm12/toolbox/decoding_toolbox')
