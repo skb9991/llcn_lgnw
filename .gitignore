@@ -1,4 +1,4 @@
-## System files -----------------------------------
+## System files for Mac -----------------------------------
 # General
 .DS_Store
 .AppleDouble
@@ -25,6 +25,9 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Temporary files created by Microsoft Office
+~$*
 
 ## Datasets -----------------------------------
 *.nii*
